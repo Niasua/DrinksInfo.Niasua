@@ -1,5 +1,4 @@
-﻿using DrinksInfo.Models;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 
 namespace DrinksInfo.Models;
 
